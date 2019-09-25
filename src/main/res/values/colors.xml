@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="drum1">#E91E63</color>
+    <color name="drum2">#FBC02D</color>
+    <color name="drum3">#CC6286</color>
+
+    <color name="drum4">#00BCD4</color>
+    <color name="drum5">#880E4F</color>
+    <color name="drum6">#EC407A</color>
+
+    <color name="drum7">#673AB7</color>
+    <color name="drum8">#00FF00</color>
+    <color name="drum9">#F1F1F3</color>
+    <color name="drum10">#03A9F4</color>
+    <color name="drum11">#F44336</color>
+    <color name="drum12">#CDDC39</color>
+
+</resources>
